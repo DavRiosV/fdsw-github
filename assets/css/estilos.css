@@ -1,6 +1,12 @@
 body {
   font-family: "Raleway", sans-serif;
 }
+.nav-link:hover{
+  background-color: #ffc107;
+}
+.img-fluid{
+  height: 100px;
+}
 
 /* Hero Section */
 
