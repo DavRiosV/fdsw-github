@@ -19,6 +19,9 @@ body {
   background-size: cover;
   background-position: center;
 }
+.btn:hover{
+  color: white;
+}
 
 /* Contacto */
 
